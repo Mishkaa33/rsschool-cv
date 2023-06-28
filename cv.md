@@ -1,4 +1,4 @@
-# Mikhail Zhuckov
+# Mikhail Zhukov
 
 ## My Contacts:
 
@@ -6,8 +6,9 @@
 - E-mail: [Gmail](m.juckov2010@gmail.com)
 - GitHub:[GitHub](https://github.com/Mishkaa33)
 - Telegram:[Mishkaa3](https://t.me/Mishkaa3)
+- Dicsord: mikhailzhukov
 
-## ABout Me:
+## About Me:
 
 I am a novice specialist in the field of web development, I have been studying web development for a year and decided to improve my skills with the help of rs-school.
 
