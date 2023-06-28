@@ -41,13 +41,13 @@ const createTime = (firstData, secondData, parent, selector) => {
 
 ## Experience:
 
-- [Cat Energy](https://github.com/Mishkaa33/1997271-keksobooking-27)
+- [Cat Energy](https://mishkaa33.github.io/1997271-cat-energy-26/)
   - BEM methodology
   - Figma
   - Scss
   - Semantic markup
   - Accessability
-- [Keksobooking](https://github.com/Mishkaa33/1997271-keksobooking-27)
+- [Keksobooking](https://mishkaa33.github.io/1997271-keksobooking-27/)
   - Js modules
   - API
 
