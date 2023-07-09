@@ -2,7 +2,7 @@
 	font-family: "Montserrat";
 	font-weight: 400;
 	font-size: normal;
-	src: url("/fonts/Montserrat-Regular.woff2");
+	src: url("fonts/Montserrat-Regular.woff2");
 	font-display: swap;
 }
 
@@ -10,7 +10,7 @@
 	font-family: "Montserrat";
 	font-weight: 500;
 	font-size: normal;
-	src: url("/fonts/Montserrat-Medium.woff2");
+	src: url("fonts/Montserrat-Medium.woff2");
 	font-display: swap;
 }
 
@@ -18,7 +18,7 @@
 	font-family: "Montserrat";
 	font-weight: 700;
 	font-size: normal;
-	src: url("/fonts/Montserrat-Bold.woff2");
+	src: url("fonts/Montserrat-Bold.woff2");
 	font-display: swap;
 }
 
@@ -26,7 +26,7 @@
 	font-family: "Anonymous";
 	font-weight: 400;
 	font-size: normal;
-	src: url("/fonts/AnonymousPro-Regular.woff2");
+	src: url("fonts/AnonymousPro-Regular.woff2");
 	font-display: swap;
 }
 
@@ -34,7 +34,7 @@
 	font-family: "Anonymous";
 	font-weight: 700;
 	font-size: normal;
-	src: url("/fonts/AnonymousPro-Bold.woff2");
+	src: url("fonts/AnonymousPro-Bold.woff2");
 	font-display: swap;
 }
 
@@ -256,7 +256,7 @@ main {
 	height: 40px;
 	top: 0;
 	left: 0;
-	background-image: url("/img/mouse.svg");
+	background-image: url("img/mouse.svg");
 	background-repeat: no-repeat;
 	background-size: 40px 40px;
 }
@@ -338,7 +338,7 @@ main {
 .experience__item--cat {
 	border-radius: 20px;
 	position: relative;
-	background-image: url("/img/cat.jpg");
+	background-image: url("img/cat.jpg");
 	background-repeat: no-repeat;
 	background-size: 100%;
 	width: 100%;
@@ -349,7 +349,7 @@ main {
 .experience__item--keks {
 	border-radius: 20px;
 	position: relative;
-	background-image: url("/img/keks.jpg");
+	background-image: url("img/keks.jpg");
 	background-repeat: no-repeat;
 	background-size: 100%;
 	width: 100%;
